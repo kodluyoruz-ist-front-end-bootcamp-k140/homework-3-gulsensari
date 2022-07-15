@@ -1,1 +1,1 @@
-# HomeWork 3 : [Click to view](https://homework-3-gulsensari.netlify.app/)
+# Homework-3 : [Click to view](https://homework-3-gulsensari.netlify.app/)
